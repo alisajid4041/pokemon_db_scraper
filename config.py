@@ -1,1 +1,0 @@
-MONGO_DB_CLIENT_URI = 'mongodb+srv://AliSajid:219rooney4041@atlascluster.hj6ae2v.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster'
